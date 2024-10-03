@@ -24,7 +24,7 @@ behaviors:
     time_horizon: 1000
     summary_freq: 10000
     self_play:
-      save_steps: 75000
+      save_steps: 55000
       team_change: 200000
       swap_steps: 2000
       window: 10
